@@ -1,5 +1,5 @@
 # Taxi Service
-### A simple webapp with CRUD operations
+### A simple webapp simulating real taxi service with following operations
 - driver authentication or creating a new driver
 - creating manufacturer, car, driver
 - assigning drivers to cars
@@ -7,7 +7,7 @@
 - displaying all cars for currently authorized driver
 - deleting manufacturers, cars and drivers
 
-#### You can test webapp [here](https://immense-ocean-21118.herokuapp.com/login)
+#### This project was deployed to Heroku, so you can test it by following this [link](https://immense-ocean-21118.herokuapp.com/login)
 
 ---
 ### This application has a three-tier architecture:
