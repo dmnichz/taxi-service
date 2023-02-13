@@ -7,8 +7,6 @@
 - displaying all cars for currently authorized driver
 - deleting manufacturers, cars and drivers
 
-#### This project was deployed to Heroku, so you can test it by following this [link](https://immense-ocean-21118.herokuapp.com/login)
-
 ---
 ### This application has a three-tier architecture:
 
